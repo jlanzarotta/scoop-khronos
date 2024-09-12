@@ -1,6 +1,6 @@
 param(
     # overwrite upstream param
-    [String]$upstream = "jlanzarotta/scoop-khronos:main"
+    [String]$upstream = "jlanzarotta/scoop-khronos:master"
 )
 
 if (!$env:SCOOP_HOME) { $env:SCOOP_HOME = Convert-Path (scoop prefix scoop) }

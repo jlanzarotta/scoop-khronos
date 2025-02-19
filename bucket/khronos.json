@@ -1,12 +1,12 @@
 {
-    "version": "2.6.0",
+    "version": "2.7.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/jlanzarotta/khronos/releases/download/2.6.0/khronos_Windows_x86_64.zip",
+            "url": "https://github.com/jlanzarotta/khronos/releases/download/2.7.0/khronos_Windows_x86_64.zip",
             "bin": [
                 "khronos.exe"
             ],
-            "hash": "1b390c8a1d2311ab07425e319063022f77e023bc6f1581b899c33138d3c34c31"
+            "hash": "4a77c9b29f6d418f05d247a6d6402d37cce15dd8225f61bc24073adefc910059"
         }
     },
     "homepage": "https://github.com/jlanzarotta/khronos",
